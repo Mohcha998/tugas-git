@@ -4,3 +4,4 @@ Test Conflict
 Ini ada perubahan baru
 Ini perubahan B
 ini brach development
+Ini branch feature A
