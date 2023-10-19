@@ -1,1 +1,2 @@
 ini adalah isi dari txt
+ini adalah isi dari clone
